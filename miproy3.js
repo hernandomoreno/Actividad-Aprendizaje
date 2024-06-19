@@ -7,3 +7,5 @@ let area = 0;
 area = base * altura / 2;
 
 console.log("El area es : "+ area);
+
+console.log("Nuevo cambio me encuetnro en mail")
