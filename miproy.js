@@ -4,5 +4,5 @@ let total = 0
 
 total = num1 + num2;
 
-console.log("New cargando github...El total es: "+total)
+console.log("Otra pruena que hago..28jun cargando github...El total es: "+total)
 
